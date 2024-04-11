@@ -3,9 +3,9 @@
 
 ## INTERN INFORMATION:
 
-**### Name: ###** Yash Sanjay Kadyan
+**Name:** Yash Sanjay Kadyan
 
-### ID: ICOD6528
+**ID:** ICOD6528
 
 
 # INTRODUCTION
@@ -91,7 +91,7 @@ Initially set up in the add function and further facilitated through a click eve
 
 # USAGE
 
-### Adding a Task: Users enter a task in the input field and click "Enter" to add it to the list.
+**Adding a Task:** Users enter a task in the input field and click "Enter" to add it to the list.
 
 ### Marking a Task as Completed: Users click on a task to toggle its "completed" status.
 
