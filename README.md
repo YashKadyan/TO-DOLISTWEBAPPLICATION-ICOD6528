@@ -3,10 +3,9 @@
 
 ## INTERN INFORMATION:
 
-### Name: **Yash Sanjay Kadyan**
+### Name: Yash Sanjay Kadyan
 
-### ID: 
-ICOD6528 
+### ID: ICOD6528 
 
 
 # INTRODUCTION
@@ -35,7 +34,7 @@ div class="listcontainer": Acts as the main container for the to-do list applica
 
 div class="todo-app": Encloses the to-do list's title, input area, and list itself, providing a centered, stylized container for the app components.
 
-<h2>To-Do List</h2>: The title for the application.
+h2 To-Do List /h2: The title for the application.
 
 Input Row (div class='row'): Contains the text input field and the Enter button. Users can type their task here and add it to the list.
 
@@ -78,7 +77,9 @@ Clears the input field after adding the task to the list.
 
 ### Marking Tasks as Completed:
 
-Utilizes event delegation by adding a click event listener to the list container (inputlist). When a task is clicked, the 'checked' class is toggled on the task, changing its appearance to indicate completion.
+Utilizes event delegation by adding a click event listener to the list container (inputlist). 
+
+When a task is clicked, the 'checked' class is toggled on the task, changing its appearance to indicate completion.
 
 
 ### Removing Tasks:
