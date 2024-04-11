@@ -1,9 +1,9 @@
 ## TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT.
 
 
-**## INTERN INFORMATION:**
+## INTERN INFORMATION:
 
-**### Name:** Yash Sanjay Kadyan
+### Name: Yash Sanjay Kadyan
 
 **### ID:** ICOD6528 
 
