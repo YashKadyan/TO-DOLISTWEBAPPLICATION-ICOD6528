@@ -43,4 +43,4 @@ function showTask()
 {
     listContainer.innerHTML = localStorage.getItem("data")
 }
-showTask()
+showTask();
