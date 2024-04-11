@@ -14,8 +14,11 @@ The transition to digital to-do lists has opened up a plethora of possibilities 
 **Implementation**
 
 	JavaScript Framework: Utilize a modern JavaScript framework for building the frontend application.
+
 	HTML/CSS: Use HTML5 and CSS3 for structuring and styling the user interface, ensuring compatibility with various web browsers.
+
 	Responsive Design: Implement responsive design principles to ensure optimal viewing experience across desktop and mobile devices.
+
 	User Interface Components: Utilize UI libraries for designing interactive and visually appealing components.
 
 **CODE EXPLAINATION**
@@ -32,11 +35,17 @@ Input Row (<div class='row'>): Contains the text input field and the Enter butto
 
 The CSS styles define the look and feel of the to-do list, applying a gradient background, styling the input fields, buttons, and tasks. 
 Key styling includes:
+
 •	Global styles are applied to set margin, padding, and font settings.
+
 •	The application is centered on the page with a maximum width and padding for aesthetics.
+
 •	Input fields and buttons are styled for a seamless interface, with hover effects for interactivity.
+
 •	The .listcontainer and .todo-app are styled to center the content and apply specific background colors and paddings.
+
 •	Tasks (<li> elements) have distinctive styles, with completed tasks being visually different to provide clear feedback on their status.
+
 •	Tasks (<li> elements) and other components like the input box and buttons have specific styles for appearance, hover effects, and when a task is marked as completed.
 
 **JavaScript Functionality:**
@@ -62,7 +71,9 @@ Initially set up in the add function and further facilitated through a click eve
 **USAGE**
 
 **Adding a Task:** Users enter a task in the input field and click "Enter" to add it to the list.
+
 **Marking a Task as Completed:** Users click on a task to toggle its "completed" status.
+
 **Removing a Task:** Users click the "×" button on a task to remove it from the list.
 
 
