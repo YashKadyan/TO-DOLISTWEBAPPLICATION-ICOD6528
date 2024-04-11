@@ -4,7 +4,7 @@
 
 **Name:** Yash Sanjay Kadyan
 
-**ID:** IC0D6528 
+**ID:** ICOD6528 
 
 **INTRODUCTION**
 
@@ -25,11 +25,11 @@ The transition to digital to-do lists has opened up a plethora of possibilities 
 
 **HTML Structure:**
 
-<div class="listcontainer">: Acts as the main container for the to-do list application, wrapping everything in a visually appealing background.
-<div class="todo-app">: Encloses the to-do list's title, input area, and list itself, providing a centered, stylized container for the app components.
+div class="listcontainer": Acts as the main container for the to-do list application, wrapping everything in a visually appealing background.
+div class="todo-app": Encloses the to-do list's title, input area, and list itself, providing a centered, stylized container for the app components.
 <h2>To-Do List</h2>: The title for the application.
-Input Row (<div class='row'>): Contains the text input field and the Enter button. Users can type their task here and add it to the list.
-<ul id="List-container">: The unordered list where tasks will be displayed as list items (<li>).
+Input Row (div class='row'): Contains the text input field and the Enter button. Users can type their task here and add it to the list.
+ul id="List-container": The unordered list where tasks will be displayed as list items (li).
 
 **CSS Styling:**
 
@@ -44,9 +44,9 @@ Key styling includes:
 
 •	The .listcontainer and .todo-app are styled to center the content and apply specific background colors and paddings.
 
-•	Tasks (<li> elements) have distinctive styles, with completed tasks being visually different to provide clear feedback on their status.
+•	Tasks (li elements) have distinctive styles, with completed tasks being visually different to provide clear feedback on their status.
 
-•	Tasks (<li> elements) and other components like the input box and buttons have specific styles for appearance, hover effects, and when a task is marked as completed.
+•	Tasks (li elements) and other components like the input box and buttons have specific styles for appearance, hover effects, and when a task is marked as completed.
 
 **JavaScript Functionality:**
 
