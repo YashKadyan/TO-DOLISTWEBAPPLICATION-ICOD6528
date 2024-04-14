@@ -110,4 +110,4 @@ In conclusion, the To-Do List project has successfully delivered a comprehensive
 
 ![No Task Added to To-Do List App](https://github.com/YashKadyan/TO-DOLISTWEBAPPLICATION-ICOD6528/assets/66464974/579018f8-2630-43a6-8ada-342de64eb83c)
 
-![All Tasks Added and Marked as Completed or Pending in To-Do List App](<img width="960" alt="TODO LIST APP Scrsht - 2" src="https://github.com/YashKadyan/TO-DOLISTWEBAPPLICATION-ICOD6528/assets/66464974/b79e81ca-8d54-41a4-9826-adb2b2f16c62">)
+![All Tasks Added and Marked as Completed or Pending in To-Do List App](https://github.com/YashKadyan/TO-DOLISTWEBAPPLICATION-ICOD6528/assets/66464974/b79e81ca-8d54-41a4-9826-adb2b2f16c62)
