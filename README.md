@@ -113,4 +113,3 @@ In conclusion, the To-Do List project has successfully delivered a comprehensive
 ![All Tasks Added and Marked as Completed or Pending in To-Do List App](https://github.com/YashKadyan/TO-DOLISTWEBAPPLICATION-ICOD6528/assets/66464974/b79e81ca-8d54-41a4-9826-adb2b2f16c62)
 
 ![Enter Task button clicked without providing any Task inside the Input field](https://github.com/YashKadyan/TO-DOLISTWEBAPPLICATION-ICOD6528/assets/66464974/c40ea057-8141-4c3a-b823-421377b4ad85)
-)
